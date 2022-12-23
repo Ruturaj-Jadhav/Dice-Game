@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Hanken+Grotesk&family=Lobster&family=Montserrat&display=swap');
+body {
+  background-color: #2C3639;
+
+}
+.heading{
+  font-family: 'Lobster', cursive;
+  text-shadow: 3px 3px #0a0d0d;
+  text-align: center;
+  font-size: 120px;
+  margin-top: 30px;
+  color: #6CC4A1;
+}
+
+.main-container{
+  text-align: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+p {
+  font-family: 'Acme', sans-serif;
+  color: #6CC4A1;
+  font-size: 40px;
+  text-shadow: 3px 3px #0a0d0d;
+}
+.dice {
+  width : 60%;
+}
